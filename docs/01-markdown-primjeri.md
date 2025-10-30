@@ -19,6 +19,7 @@ primjer *kurziv*
 **Podebljanje**
 ```
 primjer **Podebljanje**
+
 ili 
 ```bash
 __Podebljanje__
@@ -30,6 +31,8 @@ __Podebljanje__
 - stavka 1
 - stavka 2
  - podstavka
+
+
 1.Stavka
 2.Stavka
 
