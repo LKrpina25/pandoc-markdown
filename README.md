@@ -5,4 +5,4 @@ Ova dokumentacija služi u primjene Pandoca za konverziju datoteka, odnosno Mark
 2. 👌[Uvod u Markdown](docs/01-markdown-primjeri.md)
 
 ![Tux](images.jpeg)
-<img src="images.jpeg" width="30%"
+<img src="images.jpeg" width="30%">
