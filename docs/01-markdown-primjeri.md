@@ -23,3 +23,25 @@ ili
 ```bash
 __Podebljanje__
 ```
+### mogu koristiti liste, poveznice, slike, citate
+
+#### Lista
+
+- stavka 1
+- stavka 2
+ - podstavka
+1.Stavka
+2.Stavka
+
+#### Poveznice
+```bash
+[tekst poveznice](https://primjer.com)
+```
+#### Slika
+```bash
+![tekst slika](https://primjer.com)
+```
+#### Citat
+```bash
+> ovo je citat
+```
