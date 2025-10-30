@@ -1,3 +1,10 @@
+---
+title: "Uvod u Markdown"
+author: "Lovro Krpina"
+date: "30. listopada 2025."
+lang: "hr"
+---
+
 # Markdown
 ## Osnovna sintaksa
 Koristimo # * i **
